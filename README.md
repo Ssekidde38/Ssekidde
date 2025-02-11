@@ -1,4 +1,4 @@
-Download or copy the ssekidde.java file ssekidde.java.
+Download or copy the ssekidde.java file.
 
 Open the main activity and instancetiate the Ssekidde classs.
 
